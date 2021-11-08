@@ -2,7 +2,7 @@
   {
     "عنوان": "تلگرام",
     "توضیحات": "",
-    "عکس": "https://s20.picofile.com/file/8443484100/telegram_PNG34.png",
+    "عکس": "https://pmup.ir/viewer.php?file=1571_telegram_png34.png",
     "لینک": "https://web.telegram.org"
   }
 ]
